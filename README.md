@@ -1,6 +1,8 @@
 ## **Data Cleaning & Merging Pipeline**
 This is a simple project from my academic training in DataCamp.
+
 A simple data engineering project that cleans, standardizes, and merges multiple pet-related datasets into a single unified dataset using Python and Pandas.
+
 This project simulates a real-world ETL (Extract, Transform, Load) workflow where raw CSV files from different sources are processed into a clean and analysis-ready dataset.
 
 ### **Project Overview**
